@@ -1,0 +1,15 @@
+/home/dweller/Documents/source/gameoflife/bin/Debug/net8.0/gameoflife
+/home/dweller/Documents/source/gameoflife/bin/Debug/net8.0/gameoflife.deps.json
+/home/dweller/Documents/source/gameoflife/bin/Debug/net8.0/gameoflife.runtimeconfig.json
+/home/dweller/Documents/source/gameoflife/bin/Debug/net8.0/gameoflife.dll
+/home/dweller/Documents/source/gameoflife/bin/Debug/net8.0/gameoflife.pdb
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/gameoflife.GeneratedMSBuildEditorConfig.editorconfig
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/gameoflife.AssemblyInfoInputs.cache
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/gameoflife.AssemblyInfo.cs
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/gameoflife.csproj.CoreCompileInputs.cache
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/gameoflife.dll
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/refint/gameoflife.dll
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/gameoflife.pdb
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/gameoflife.genruntimeconfig.cache
+/home/dweller/Documents/source/gameoflife/obj/Debug/net8.0/ref/gameoflife.dll
+/home/dweller/Documents/source/gameoflife/bin/Debug/net8.0/input.life
